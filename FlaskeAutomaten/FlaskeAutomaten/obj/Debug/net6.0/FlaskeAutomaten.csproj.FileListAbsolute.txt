@@ -1,0 +1,15 @@
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net6.0\FlaskeAutomaten.exe
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net6.0\FlaskeAutomaten.deps.json
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net6.0\FlaskeAutomaten.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net6.0\FlaskeAutomaten.dll
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\bin\Debug\net6.0\FlaskeAutomaten.pdb
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.dll
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\refint\FlaskeAutomaten.dll
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.pdb
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\FlaskeAutomaten.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\FlaskeAutomaten\FlaskeAutomaten\obj\Debug\net6.0\ref\FlaskeAutomaten.dll
